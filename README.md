@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating a common error related to string length calculation. The script attempts to calculate the length of a non-string argument, leading to an error. A solution is provided to handle this scenario.
